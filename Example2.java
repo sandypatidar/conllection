@@ -2,7 +2,7 @@ import java.util.*;
 public class  Example2 {
 public static void main (String [] args) {
 String str = "jay shree ram sita hanuman";
-
+String s = "Sandeep patidar";
 int x=0,y=-1;
 String ans = "";
 for(int i=0;i<str.length();i++)
